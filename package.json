@@ -1,5 +1,5 @@
 {
-  "name"         : "node-hkdf",
+  "name"         : "hkdf",
   "version"      : "0.0.1",
   "description"  : "HKDF key derivation function",
   "main"         : "index",
