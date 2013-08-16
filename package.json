@@ -7,7 +7,7 @@
     "type" : "git",
     "url"  : "https://github.com/benadida/node-hkdf"
   },
-  "dependencies" : {
+  "devDependencies" : {
     "vows": "0.5.13"
   },
   "author" : {
