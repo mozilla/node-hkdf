@@ -1,20 +1,20 @@
 {
-  "name"         : "hkdf",
-  "version"      : "0.0.1",
-  "description"  : "HKDF key derivation function",
-  "main"         : "index",
-  "repository" : {
-    "type" : "git",
-    "url"  : "https://github.com/benadida/node-hkdf"
+  "name": "hkdf",
+  "version": "0.0.2",
+  "description": "HKDF key derivation function",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benadida/node-hkdf"
   },
-  "devDependencies" : {
+  "devDependencies": {
     "vows": "0.5.13"
   },
-  "author" : {
-    "name"  : "Ben Adida",
-    "email" : "ben@adida.net"
+  "author": {
+    "name": "Ben Adida",
+    "email": "ben@adida.net"
   },
-  "scripts" : {
+  "scripts": {
     "test": "./scripts/run_all_tests.sh"
   },
   "engines": {
