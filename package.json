@@ -5,7 +5,7 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/benadida/node-hkdf"
+    "url": "https://github.com/mozilla/node-hkdf"
   },
   "devDependencies": {
     "vows": "0.5.13"
